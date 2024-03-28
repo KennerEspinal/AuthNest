@@ -32,6 +32,19 @@
 $ pnpm install
 ```
 
+## Inicialization
+
+```bash
+# Up service to Data Base Mongo
+$ docker compose up -d
+
+# Copy 
+$ .env.template
+
+# rename
+$ .env
+```
+
 ## Running the app
 
 ```bash
